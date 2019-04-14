@@ -7,6 +7,4 @@ export class CreateCustomerDTO {
   readonly phone: string;
   readonly address: string;
   readonly description: string;
-  readonly createdAt: Date;
-  readonly updatedAt: Date;
 }
